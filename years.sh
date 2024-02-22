@@ -17,3 +17,4 @@ if (grep -r -L "Copyright \+(c) \+2009-.*Yegor Bugayenko" \
     echo "Files above must have copyright block in header"
     exit 1
 fi
+rultor.com
